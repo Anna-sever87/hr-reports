@@ -1,0 +1,4 @@
+{
+  "spreadsheet_id": "PASTE_SPREADSHEET_ID_HERE",
+  "credentials_path": ".secrets/service-account.json"
+}

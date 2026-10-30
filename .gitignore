@@ -1,0 +1,9 @@
+.venv/
+.secrets/
+__pycache__/
+*.pyc
+config.local.json
+*.log
+.checks/
+hr-reports-*.json
+*service-account*.json
